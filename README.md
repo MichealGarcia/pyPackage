@@ -40,4 +40,3 @@ To edit this Readme file
 - Pytest
 	Need to test your python project? Boom
 	- pip install -U pytest
-`
